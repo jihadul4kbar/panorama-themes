@@ -1,5 +1,5 @@
 .logo{
-	padding: 20px;
+	padding: 10px;
 }
 .light-blue.lighten-1 {
     background-color: #29b6f6 !important;
@@ -8,7 +8,8 @@
     background-color: #03a9f4 !important;
 }
 .top-menu{
-	padding: 3px;
+	padding: 5px;
+	color: #fff;
 }
 nav {
   color: #fff;
@@ -16,5 +17,16 @@ nav {
   width: 100%;
   height: 50px !important;
   line-height: 50px !important;
-  border-radius: 5px;
+  margin-bottom: 0px;
+}
+.berita{
+	text-align: center;
+	font-size: 24px
+}
+.slider{
+	margin-top: 0px;
+}
+.footer{
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
